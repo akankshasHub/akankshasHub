@@ -3,9 +3,9 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshashub&label=Profile%20views&color=0e75b6&style=flat" alt="akankshashub" /> </p>
 
-- 🔭 I’m currently working on [The 45-Day DSA Challenge](https://www.proelevate.in/dsa-practice/arsh-dsa-sheet)
+- 🔭 I’m currently working on ML Project
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akankshasHub?tab=repositories](https://github.com/akankshasHub?tab=repositories)
 
